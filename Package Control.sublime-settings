@@ -1,0 +1,14 @@
+{
+	"installed_packages":
+	[
+		"JSHint",
+		"Markdown Preview",
+		"Package Control",
+		"Prefixr",
+		"Python Coverage",
+		"Python PEP8 Autoformat",
+		"Python Pep8 Lint",
+		"PythonOpenModule",
+		"requirements.txt"
+	]
+}
